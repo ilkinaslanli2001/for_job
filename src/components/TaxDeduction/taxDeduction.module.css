@@ -8,8 +8,9 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    overflow:scroll;
+    overflow:auto;
     height: max-content;
+    max-height: 100vh;
 }
 
 .wrapper h1 {
