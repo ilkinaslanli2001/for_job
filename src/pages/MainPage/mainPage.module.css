@@ -1,0 +1,35 @@
+.wrapper
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+
+}
+.wrapper .startBTN
+{
+    padding: 16px 32px;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 500;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    border-radius: 6px;
+    border: 1px solid #fff;
+    transition: 0.2s ease all;
+}
+.startBTN:hover
+{
+    background-color: white;
+    color: black;
+}
+@media only screen and (max-width: 720px) {
+   .wrapper .startBTN
+   {
+       font-size: 12px;
+       padding: 12px 24px;
+   }
+}

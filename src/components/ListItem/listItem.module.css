@@ -1,0 +1,47 @@
+.wrapper
+{
+    padding: 16px 0;
+    border-bottom: 1px solid #DFE3E6;
+    display: flex;
+    align-items: center;
+
+}
+.wrapper p
+{
+    font-size: 14px;
+    margin-left: 11px;
+    line-height: 24px;
+}
+.wrapper span
+{
+    opacity: 0.5;
+}
+.checkbox
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 6px;
+    border: 1px solid #DFE3E6;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: 0.2s ease all;
+}
+.checkbox:hover
+{
+    border: 1px solid #000000!important;
+
+}
+.checkbox svg
+{
+    width: 14px;
+    height: 11px;
+}
+.checkbox.active
+{
+    padding: 2px;
+    border: 1px solid white;
+    background: linear-gradient(255.35deg, #DC3131 0.83%, rgba(255, 79, 79, 0) 108.93%), #FF5E56;
+}

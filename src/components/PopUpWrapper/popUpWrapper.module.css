@@ -1,0 +1,14 @@
+.popup_wrapper {
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 100%;
+    min-height: 100vh;
+    z-index: 60;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 0;
+
+
+}
