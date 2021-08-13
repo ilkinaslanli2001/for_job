@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/for_job/static/css/main.6ef88b7d.chunk.css",
+    "main.js": "/for_job/static/js/main.5e8743a2.chunk.js",
+    "main.js.map": "/for_job/static/js/main.5e8743a2.chunk.js.map",
+    "runtime-main.js": "/for_job/static/js/runtime-main.d8167eb9.js",
+    "runtime-main.js.map": "/for_job/static/js/runtime-main.d8167eb9.js.map",
+    "static/js/2.8bb59d07.chunk.js": "/for_job/static/js/2.8bb59d07.chunk.js",
+    "static/js/2.8bb59d07.chunk.js.map": "/for_job/static/js/2.8bb59d07.chunk.js.map",
+    "static/js/3.f5872bd4.chunk.js": "/for_job/static/js/3.f5872bd4.chunk.js",
+    "static/js/3.f5872bd4.chunk.js.map": "/for_job/static/js/3.f5872bd4.chunk.js.map",
+    "index.html": "/for_job/index.html",
+    "static/css/main.6ef88b7d.chunk.css.map": "/for_job/static/css/main.6ef88b7d.chunk.css.map",
+    "static/js/2.8bb59d07.chunk.js.LICENSE.txt": "/for_job/static/js/2.8bb59d07.chunk.js.LICENSE.txt",
+    "static/media/Close.beb7d290.svg": "/for_job/static/media/Close.beb7d290.svg",
+    "static/media/Tick.62a8ceae.svg": "/for_job/static/media/Tick.62a8ceae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8167eb9.js",
+    "static/js/2.8bb59d07.chunk.js",
+    "static/css/main.6ef88b7d.chunk.css",
+    "static/js/main.5e8743a2.chunk.js"
+  ]
+}
