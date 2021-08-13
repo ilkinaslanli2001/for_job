@@ -1,7 +1,7 @@
 .popup_wrapper {
     background-color: rgba(0, 0, 0, 0.3);
     width: 100%;
-    min-height: 100vh;
+    height: 100vh;
     z-index: 60;
     top: 0;
     display: flex;
@@ -9,6 +9,8 @@
     align-items: center;
     position: fixed;
     left: 0;
-    height: 100%;
-
+  
+    bottom: 0;
+    right: 0;
+    overflow: auto;
 }

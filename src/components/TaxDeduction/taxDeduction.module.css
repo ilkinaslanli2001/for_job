@@ -6,10 +6,10 @@
     background-color: white;
     padding: 32px;
     position: relative;
-    height:100vh;
     display: flex;
     flex-direction: column;
-    overflow:auto;
+    overflow:scroll;
+    height: max-content;
 }
 
 .wrapper h1 {
