@@ -6,7 +6,7 @@
     background-color: white;
     padding: 32px;
     position: relative;
-    height: max-content;
+    height:100vh;
     display: flex;
     flex-direction: column;
     overflow:auto;
